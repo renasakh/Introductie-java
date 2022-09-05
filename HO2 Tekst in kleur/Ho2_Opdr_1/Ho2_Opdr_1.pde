@@ -1,0 +1,13 @@
+println("Mijn naam is Renas");
+println("Ik ben 22 jaar");
+print("Mijn hobby's zijn, ");
+print("Voetbal,");
+print(" Gamen");
+println(" en uiteten gaan.");
+print("Ik wil me diploma halen met de hulp van me docenten.");
+println(" :)");
+println("Ik hoop dit allemaal snel te kunnen leren, En zo goed mogelijk hierin te worden.");
+println("Oja en ik woon in Almere!!");
+print("Ik ben een leugue of legends noob, Probeer gold te halen maar dat duurt nog even en ik blame het altijd op me team mates.");
+print(" Ben wel goed in call of duty!");
+println(" Hoop dat dit genoeg tekst is.");
