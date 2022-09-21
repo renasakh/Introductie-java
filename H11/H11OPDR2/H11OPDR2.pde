@@ -1,5 +1,7 @@
-int [] array ={10, 20, 30, 40, 50, 60, 70};
+int []array={1, 2, 3, 4, 5, 6, 7};
 
 void setup() {
-  println(array);
+  for (int i=0; i<7; i++) {
+    println(array[i]);
+  }
 }
