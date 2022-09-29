@@ -3,6 +3,7 @@ boolean getal1= true;
 ControlP5 cp;
 Textfield tf;
 String s="test me!", operator="";
+int value1=0;
 int value2=0;
 int Antwoord;
 Button k0;
@@ -177,8 +178,8 @@ void negen() {
 }
 
 void min() {
-    s=s+"-";
-    getal1 = false;
+  s=s+"-";
+  getal1 = false;
 }
 void plus() {
   s=s+"+";
@@ -186,9 +187,7 @@ void plus() {
 }
 void keer() {
   s=s+"*";
-  getal1=false;
 }
 void delen() {
   s=s+"/";
-  getal1=false;
 }
